@@ -7,8 +7,8 @@ from scipy.integrate import odeint
 # dv/dt = -g
 
 #Analytic solutions:
-# v(t) = -gt + v_0 # speed in respect to time
-# y(t) = -1/2*gt^2 + H # height in respect to time
+# v(t) = -gt + v_0 # speed with respect to time
+# y(t) = -1/2*gt^2 + H # height with respect to time
 
 #The initial conditions:
 H = 45 # Dropping object from H=45m
